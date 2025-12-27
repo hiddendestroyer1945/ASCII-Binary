@@ -18,7 +18,8 @@ You can easily install the necessary dependencies using the `apt` package manage
 ```bash
 sudo apt update
 sudo apt install git python3
-git clone "specified this repository link"
+git clone https://github.com/hiddendestroyer1945/ASCII-Binary.git,
+cd ASCII-Binary/
 ```
 
 ## How to Use
